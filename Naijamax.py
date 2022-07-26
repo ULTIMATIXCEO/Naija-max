@@ -325,4 +325,4 @@ def apiiii(uid, fii):
 if __name__=="__main__":
     os.system("clear")
     mkdir_data_login()
-    bassey()
+    Bassey()
