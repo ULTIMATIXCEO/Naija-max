@@ -171,7 +171,7 @@ def mk1():
 				exit("\n [x] file %s not found"%(fileX))
 
 def fii_xd():
-	Ultimaixceo()
+	ultimaixceo()
 	mrbassey =input(f"{P}   Choose : {P}")
 	if mrbassey in [""]:
 		print(f"{B}[*]{M} Roung Input !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
@@ -325,4 +325,4 @@ def apiiii(uid, fii):
 if __name__=="__main__":
     os.system("clear")
     mkdir_data_login()
-    Bassey()
+    bassey()
