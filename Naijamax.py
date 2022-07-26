@@ -3,7 +3,7 @@
 
 Owner     =  'ULTIMAIXCEO'
 Facebook   =  'Facebook.com/De Ultimate Ceo'
-WhatsApp     =  '+2347052802953
+WhatsApp     =  '+2347052802953'
 
 #####MODULE
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
