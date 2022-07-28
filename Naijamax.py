@@ -7,7 +7,7 @@ WhatsApp     =  '+2347052802953'
 
 #####MODULE
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
-from random import 
+from random import randint
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from requests.exceptions import ConnectionError
 from concurrent.futures import ThreadPoolExecutor
