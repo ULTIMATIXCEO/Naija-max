@@ -152,7 +152,7 @@ def bassey():
     os.system("clear");banner()
     print(f"{B}[1] File Crack ")
     print(f"{B}[0] Out ")
-    baloch123 = input(f"{P}\n   Choose : {B}")
+    bassey123 = input(f"{P}\n   Choose : {B}")
     if bassey123 in ["0","00"]:
         exit()
     elif bassey123 in ["1","01"]:
@@ -172,7 +172,7 @@ def mk1():
 def fii_xd():
 	ultimaixceo()
 	mrbassey =input(f"{P}   Choose : {P}")
-	if mrbaloch in [""]:
+	if mrbassey in [""]:
 		print(f"{B}[*]{M} Roung Input !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 	elif mrbassey in ["1","01"]:
 		print(f"{B} \n \033[0;96m[✓] Want Start Crack {P}Y/t")
