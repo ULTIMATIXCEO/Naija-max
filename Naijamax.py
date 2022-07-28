@@ -2,12 +2,12 @@
 # -*- koding: utf-8 -*-
 
 Owner     =  'ULTIMAIXCEO'
-Facebook   =  'Facebook.com/De Ultimate Ceo'
+Facebook   =  'Facebook.com/De Últimate Ceo'
 WhatsApp     =  '+2347052802953'
 
 #####MODULE
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
-from random import randint
+from random import 
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from requests.exceptions import ConnectionError
 from concurrent.futures import ThreadPoolExecutor
@@ -61,7 +61,7 @@ def banner():
     war_dom = random.choice([A,K,I,J,U,H])
     print("""
 \n\033[0;96m                    
-  
+
 
  /$$   /$$           /$$                                                
 | $$$ | $$          |__/                                                
@@ -73,14 +73,13 @@ def banner():
 |__/  \__/ \_______/|__/| $$ \_______/|__/ |__/ |__/ \_______/|__/  \__/
                    /$$  | $$                                            
                   |  $$$$$$/                                            
-                   \______/                                             
+                   \______/                             
 
-
-\033[0;96m╔══\033[0;97m[•] Authur      \033[0;96m╔══\033[0;97m[•] MR BASSEY
+\033[0;96m╔══\033[0;97m[•] Authur      \033[0;96m╔══\033[0;97m[•] Mr Bassey
 \033[0;96m╠══\033[0;97m[•] Whatsp      \033[0;96m╠══\033[0;97m[•] +2347052802953
-\033[0;96m╚══\033[0;97m[•] Github      \033[0;96m╚══\033[0;97m[•] ULTIMAIXCEO
+\033[0;96m╚══\033[0;97m[•] Github      \033[0;96m╚══\033[0;97m[•] ULTIMAIXCEO 
           
-       \033[47m\033[1;31m Bassey \033[41m\033[1;37m X ultimatixceo \x1b[0m\n
+       \033[47m\033[1;31m Bassey \033[41m\033[1;37m X  Ultimatixceo \x1b[0m\n
 """)
 ## DATE TIME
 skrng = datetime.now()
@@ -100,7 +99,7 @@ _bulan_ = bulan_cek[bulan_skrng]
 tanggal = ("%s-%s-%s"%(hari,_bulan_,tahun))
 
 ##### 
-id = []
+id = [] 
 ok = []
 cp = []
 loop=0
@@ -127,7 +126,7 @@ def jalan(z):
 ###GLOBAL URL & HEADERS
 url_businness = "https://business.facebook.com"
 ua_business = "Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36 [FBAN/EMA;FBLC/en_US;FBAV/229.0.0.8.128;]"
-owner_joke = 'Dont you see you God is great,i  just look at me '
+owner_joke = 'Dont Love And Cry Just Fuck And Fly '
 web_fb = "https://www.facebook.com/"
 m_fb = "https://m.facebook.com/"
 mbasic = "https://mbasic.facebook.com/"
@@ -136,10 +135,10 @@ header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QK
 ### CREATE FOLDER
 def mkdir_data_login():
 	# Owner
-    try:os.mkdir("Original Written By mr Baasey")
+    try:os.mkdir("Original Written By mr bassey")
     except:pass
     # Joke
-    try:os.mkdir("Dont you see you God is great,i  just look at me ")
+    try:os.mkdir("Dont Love And Cry Just Fuck And Fly")
     except:pass
     # Make Directory Result
     try:os.mkdir("CP")
@@ -149,11 +148,11 @@ def mkdir_data_login():
     except:pass
 
 ######  MENU
-def Bassey():
+def bassey():
     os.system("clear");banner()
     print(f"{B}[1] File Crack ")
     print(f"{B}[0] Out ")
-    bassey123 = input(f"{P}\n   Choose : {B}")
+    baloch123 = input(f"{P}\n   Choose : {B}")
     if bassey123 in ["0","00"]:
         exit()
     elif bassey123 in ["1","01"]:
@@ -173,13 +172,13 @@ def mk1():
 def fii_xd():
 	ultimaixceo()
 	mrbassey =input(f"{P}   Choose : {P}")
-	if mrbassey in [""]:
+	if mrbaloch in [""]:
 		print(f"{B}[*]{M} Roung Input !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 	elif mrbassey in ["1","01"]:
 		print(f"{B} \n \033[0;96m[✓] Want Start Crack {P}Y/t")
 		_start_=input(f"{P}\n   Choose : {P}")
 		if _start_ in ["t","T"]:
-			print(f"{B}   \n{M} Ok Goodbye !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
+			print(f"{B}   \n{M} Ok Godby !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 			
 			
 		else:
@@ -210,7 +209,7 @@ def fii_xd():
 		print(f"{B} \n \033[0;96m[✓] Want Start Crack {P}Y/t")
 		_start_=input(f"{P}\n   Choose : {P}")
 		if _start_ in ["t","T"]:
-			print(f"{B}   \n{M} Ok Goodbye !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
+			print(f"{B}   \n{M} Ok Godby !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 
 		else:
 			print(f"{B} \n \033[0;96m[✓] Crack password manual/default {P}M/D")
@@ -239,7 +238,7 @@ def fii_xd():
 		print(f"{B} \n \033[0;96m[✓] Want Start Crack {P}Y/t")
 		_start_=input(f"{P}\n   Choose : {P}")
 		if _start_ in ["t","T"]:
-			print(f"{B}   \n{M} Ok Goodbye !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
+			print(f"{B}   \n{M} Ok Godby !!");os.system('xdg-open https://www.facebook.com/MUB4SH4R')
 
 		else:
 			print(f"{B} \n \033[0;96m[✓] Crack password manual/default {P}M/D")
@@ -264,7 +263,7 @@ def fii_xd():
 						coeg.submit(apiiii, uid, fii)
 				exit()
 				
-def Ultimate():
+def ultimaixceo():
 	
     print(f"{B} \n\033[0;96m ╔══\033[0;97m[1] Crack With Only Name Pass {B}\033[0;96m[v-fast]")
     print(f"{B}\033[0;96m ╠══\033[0;97m[2] Crack With Name+Digits Pass {B}\033[0;96m[slow]")
@@ -325,4 +324,4 @@ def apiiii(uid, fii):
 if __name__=="__main__":
     os.system("clear")
     mkdir_data_login()
-    Bassey()
+    bassey()
